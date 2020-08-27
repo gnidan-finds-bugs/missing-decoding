@@ -1,0 +1,9 @@
+{
+  "name": "missing-decodings",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "@truffle/decoder": "^4.3.18"
+  }
+}
